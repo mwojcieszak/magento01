@@ -1,0 +1,9 @@
+[submodule "htdocs"]
+	path = htdocs
+	url = https://github.com/OpenMage/magento-lts.git
+[submodule "deployscripts/modman"]
+	path = deployscripts/modman
+	url = https://github.com/colinmollenhour/modman.git
+[submodule "deployscripts/n98-magerun"]
+	path = deployscripts/n98-magerun
+	url = https://github.com/netz98/n98-magerun.git
