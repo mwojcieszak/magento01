@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Madosoftware_Ecard1click>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Madosoftware_Ecard1click>
+    </modules>
+</config>
